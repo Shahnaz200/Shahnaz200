@@ -30,7 +30,7 @@ About me:
 
 I am Shahnaz Vatankhah,a curious person who likes to know more about programming and web development.
 
-I am currently learning web deveiopment in @HackYourFuture and, 
+I learned more about web deveiopment in @HackYourFuture and, 
 
 I am eager to connect with different companies in this field so that I can spread what I have learned.
 
@@ -42,7 +42,7 @@ languages and tools:
 
 
 
-<img src="https://img.icons8.com/color/344/html-5.png" width="30" height="30"/> <img src="https://img.icons8.com/color/344/css3.png" width="30" height="30"/> <img src="https://img.icons8.com/color/344/javascript--v1.png" width="30" height="30"/> <img src="https://img.icons8.com/color/344/git.png" width="30" height="30"/>
+<img src="https://img.icons8.com/color/344/html-5.png" width="30" height="30"/> <img src="https://img.icons8.com/color/344/css3.png" width="30" height="30"/> <img src="https://img.icons8.com/color/344/javascript--v1.png" width="30" height="30"/> <img src="https://img.icons8.com/color/344/git.png" width="30" height="30"/> <img src="https://img.icons8.com/color/344/my-sql.png" width="30" height="30"/> <img src="https://img.icons8.com/color/344/nodejs.png" width="30" height="30"/> <img src="https://img.icons8.com/color/344/react-native.png" width="30" height="30"/> 
 
 
 Contact:
